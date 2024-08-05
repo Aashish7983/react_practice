@@ -1,8 +1,8 @@
-import Forms from "./Forms";
+import UseEffectHook from "./Hooks/useEffectHook";
 const App = () => {
   return (
     <div className="app">
-     <Forms/>
+   <UseEffectHook/>
     </div>
   );
 };

@@ -1,0 +1,54 @@
+/* .header{
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+}
+
+.imge{
+  width: 150px;
+  height: 100px;
+}
+
+.list{
+  padding: 10px;
+  display: flex;
+  list-style-type: none;
+}
+.nav-item > ul > li{
+  padding: 5px;
+}
+
+.card-img{
+  width: 150px;
+  height: 150px;
+  padding: 5px;
+}
+
+
+
+.card:hover{
+  border: 1px solid black;
+}
+
+.res-card{
+  width: 170px;
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+.card{
+  
+} */
+
+.app{
+
+}
+
+.dark{
+  background-color: black;
+  height: 100%;
+  width: 100%;
+}
+.light{
+  background-color: white;
+}
